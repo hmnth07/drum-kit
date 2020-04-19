@@ -1,2 +1,2 @@
 # Drum-kit
-##come play with music!
+come play with music!
